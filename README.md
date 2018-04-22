@@ -1,2 +1,3 @@
 # project-Git
-my files areready
+my files are formed
+these are tutorials
